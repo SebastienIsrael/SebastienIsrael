@@ -23,21 +23,19 @@ Atualmente estou cursando o 1º semestre de **Engenharia de Software** na Estác
 ---
 
 ### 📂 Projetos em Destaque
-*(Aqui você vai listar esse seu projeto que já está pronto!)*
 
-1. **[Nome do Seu Projeto]** *Descrição curta de uma linha sobre o que o projeto faz.* - 🛠️ Tecnologia: Python.  
-   - 🔗 [Link para o repositório]
 
 ---
 
 ### 📈 Estatísticas
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sebastienisrael&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastienIsrael&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
 ---
 
 ### 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sebastien-israel-4807a3378)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sebastienisra007@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastien-israel-4807a3378)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebastienisra007@gmail.com)
