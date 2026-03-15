@@ -27,9 +27,6 @@ Atualmente estou cursando o 1º semestre de **Engenharia de Software** na Estác
 - 🗣️ Fluente em Francês, Português e Ingles Avançado .
 
 
-### 📂 Projetos em Destaque
-
-
 
 ### 📫 Como me encontrar
 
