@@ -1,3 +1,5 @@
+### 🐍 Meu Histórico de Contribuições
+![Snake animation](https://github-readme-stats.vercel.app/api/snake.svg?github=SEU-USUARIO-AQUI&color_dots=%23ebedf0%2C%239be9a8%2C%2340c463%2C%2330a14e%2C%23216e39&color_snake=%234334eb)
 # Olá, eu sou o Sebastien Israel! 👋
 
 ### 👨‍💻 Acadêmico de Engenharia de Software | Entusiasta de Python & Automação
