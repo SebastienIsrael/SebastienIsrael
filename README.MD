@@ -2,18 +2,12 @@
 # Olá, eu sou o Sebastien Israel! 👋
 
 ### 📈 Estatísticas
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="55%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Sebastienisrael&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="100%" />
-      </td>
-      <td width="45%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastienIsrael&layout=compact&langs_count=5&theme=dracula&hide_title=false" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
+### 📈 Estatísticas
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=dracula"/>
+</p>
+
 ### 🛠️ Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
